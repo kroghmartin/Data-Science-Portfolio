@@ -1,0 +1,15 @@
+# House Price Prediction with Tree-Based Models and a Stacked Ensemble
+
+This project predicts house prices using tree-based machine learning models and a stacked ensemble approach.
+
+Methods:
+- Data preprocessing and feature engineering
+- Decision Trees, Random Forest, and Gradient Boosting
+- Stacking ensemble model
+- Model evaluation using cross-validation
+
+Tools:
+- R (tidyverse, tidymodels, ranger, xgboost, stacks)
+
+Goal:
+Demonstrate applied machine learning for structured economic data with a focus on predictive performance and model comparison.
